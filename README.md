@@ -7,27 +7,11 @@ BTech student @ DTU | AI/ML enthusiast
 ### About Me
 
 I’m passionate about building intelligent systems and contributing to open-source projects that push the boundaries of AI and machine learning. 
-Currently exploring:
-
-- LangChain-based multi-agent AI systems  
-- Retrieval-Augmented Generation (RAG) architectures  
-- AI-ML in General. 
-
----
-
-### What I Bring to Open Source
-
 - **Strong foundation** in Python, Java, C, and web technologies  
 - Experience with ML frameworks like TensorFlow, Scikit-Learn, and LangChain  
-- Hands-on projects in AI agent frameworks, mental health chatbots, and knowledge retrieval systems  
+- Projects in AI agent frameworks, mental health chatbots, and knowledge retrieval systems  
 - Proven ability to collaborate and lead in academic and tech communities  
-
----
-
-### Open Source Contributions
- 
-- Actively maintain and develop projects on [my GitHub](https://github.com/celestial317)  
-- Frequent collaborator on AI/ML tooling and chatbot frameworks  
+- Maintaining and developing projects on [my GitHub](https://github.com/celestial317)   
 
 ---
 
