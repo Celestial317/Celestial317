@@ -1,10 +1,8 @@
 # Soumya Sourav Das 🚀
 
-BTech student @ DTU | AI/ML enthusiast
+B. Tech student @ DTU | AI/ML enthusiast
 
 ---
-
-### About Me
 
 I’m passionate about building intelligent systems and contributing to open-source projects that push the boundaries of AI and machine learning. 
 - **Strong foundation** in Python, Java, C, and web technologies  
