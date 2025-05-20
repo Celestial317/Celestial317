@@ -11,7 +11,7 @@ Currently exploring:
 
 - LangChain-based multi-agent AI systems  
 - Retrieval-Augmented Generation (RAG) architectures  
-- Generative AI chatbots with context-aware responses  
+- AI-ML in General. 
 
 ---
 
@@ -37,9 +37,32 @@ If you’re working on something exciting in AI, ML, or open source, I’d love 
 
 ---
 
-📫 **Get in touch:** [Email](mailto:soumyasourav0311@gmail.com) | [LinkedIn](https://linkedin.com/in/soumyasouravdas) | [Portfolio]([https://your-portfolio-link](https://soumya-sourav-portfolio.vercel.app/))
+📫 **Get in touch:** [Email](mailto:soumyasourav0311@gmail.com) | [LinkedIn](https://linkedin.com/in/soumyasouravdas) | [Portfolio](https://soumya-sourav-portfolio.vercel.app/)
 
 ---
 
-<!-- Optional GitHub stats card -->
+### GitHub Stats
+
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=celestial317&show_icons=true&theme=radical)
+
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestial317&layout=compact&theme=radical)
+
+### GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=celestial317&theme=radical)
+
+---
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+
+---
