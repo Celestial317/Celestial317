@@ -42,4 +42,4 @@ If you’re working on something exciting in AI, ML, or open source, I’d love 
 ---
 
 <!-- Optional GitHub stats card -->
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=celestial317&show_icons=true&theme=radical)
