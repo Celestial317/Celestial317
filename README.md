@@ -25,9 +25,8 @@ Currently exploring:
 ---
 
 ### Open Source Contributions
-
-- Contributor to **Winter of Code 4.0** (Deep Learning domain)  
-- Actively maintain and develop projects on [my GitHub](https://github.com/your-username)  
+ 
+- Actively maintain and develop projects on [my GitHub](https://github.com/celestial317)  
 - Frequent collaborator on AI/ML tooling and chatbot frameworks  
 
 ---
@@ -38,11 +37,7 @@ If you’re working on something exciting in AI, ML, or open source, I’d love 
 
 ---
 
-📫 **Get in touch:** [Email](mailto:soumyasourav0311@gmail.com) | [LinkedIn](https://linkedin.com/in/your-linkedin) | [Portfolio](https://your-portfolio-link)
-
----
-
-*“Open source is where innovation meets collaboration — I’m here to build and grow with the community.”*
+📫 **Get in touch:** [Email](mailto:soumyasourav0311@gmail.com) | [LinkedIn](https://linkedin.com/in/soumyasouravdas) | [Portfolio]([https://your-portfolio-link](https://soumya-sourav-portfolio.vercel.app/))
 
 ---
 
