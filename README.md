@@ -8,16 +8,8 @@ BTech student @ DTU | AI/ML enthusiast
 
 I’m passionate about building intelligent systems and contributing to open-source projects that push the boundaries of AI and machine learning. 
 - **Strong foundation** in Python, Java, C, and web technologies  
-- Experience with ML frameworks like TensorFlow, Scikit-Learn, and LangChain  
-- Projects in AI agent frameworks, mental health chatbots, and knowledge retrieval systems  
-- Proven ability to collaborate and lead in academic and tech communities  
+- Experience with ML frameworks like TensorFlow, Scikit-Learn, and LangChain 
 - Maintaining and developing projects on [my GitHub](https://github.com/celestial317)   
-
----
-
-### Let’s Collaborate
-
-I'd love to connect if you’re working on something exciting in AI, ML, or open source! Whether it’s a new project, bug fixes, or idea brainstorming, feel free to reach out.
 
 ---
 
