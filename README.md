@@ -1,12 +1,12 @@
 # Soumya Sourav Das 🚀
 
-Electrical Engineering student @ DTU | AI/ML enthusiast | Open Source contributor
+BTech student @ DTU | AI/ML enthusiast
 
 ---
 
 ### About Me
 
-I’m passionate about building intelligent systems and contributing to open-source projects that push the boundaries of AI, machine learning, and multi-agent frameworks.  
+I’m passionate about building intelligent systems and contributing to open-source projects that push the boundaries of AI and machine learning. 
 Currently exploring:
 
 - LangChain-based multi-agent AI systems  
@@ -33,7 +33,7 @@ Currently exploring:
 
 ### Let’s Collaborate
 
-If you’re working on something exciting in AI, ML, or open source, I’d love to connect! Whether it’s a new project, bug fixes, or idea brainstorming — feel free to reach out.
+I'd love to connect if you’re working on something exciting in AI, ML, or open source! Whether it’s a new project, bug fixes, or idea brainstorming, feel free to reach out.
 
 ---
 
