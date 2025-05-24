@@ -1,4 +1,4 @@
-# Soumya Sourav Das 🚀
+# Soumya Sourav Das
 
 B. Tech student @ DTU | AI/ML enthusiast
 
