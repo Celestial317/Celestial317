@@ -107,8 +107,12 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 # GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=celestial317&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=celestial317&layout=compact&theme=github_dark&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=celestial317&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=celestial317&layout=compact&theme=tokyonight&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=celestial317&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
