@@ -112,10 +112,6 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=celestial317&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=celestial317&theme=github-dark-blue&hide_border=true"/>
 </p>
 
