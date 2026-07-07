@@ -1,20 +1,30 @@
 # Hi, I'm Soumya Sourav Das
 
-**B.Tech Electrical Engineering @ Delhi Technological University (DTU) '28**
-AI/ML Engineer • Software Developer • Open Source Enthusiast • Hackathon Builder
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Hackathon+Builder;Agentic+AI+Developer;Open+Source+Enthusiast;Building+Intelligent+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=celestial317&label=Profile%20Views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=celestial317&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+## About Me
+
+* 🎓 **B.Tech Electrical Engineering @ Delhi Technological University (DTU) '28**
+* 🏆 **3× Hackathon Winner**
+* 🤖 **Machine Learning Head @ MACS, DTU**
+* 🔬 Research Interests: Multimodal AI, Agentic Systems, Computer Vision, RAG, Scientific ML
+* 💻 Strong foundation in Python, Java, C, DSA, and Full-Stack Development
+* 🚀 Building production-grade AI applications using modern MLOps and Cloud technologies
+* 📚 Exploring Distributed Systems, Advanced Deep Learning, and AI Research
 
 I enjoy building intelligent systems that combine **Machine Learning, Generative AI, Agentic Workflows, and Scalable Software Engineering**.
 
-* 🏆 3× Hackathon Winner
-* 🤖 Machine Learning Head @ MACS, DTU
-* 🔬 Research Interests: Multimodal AI, Agentic Systems, Computer Vision, RAG, Scientific ML
-* 💻 Strong foundation in Python, Java, C, Data Structures & Algorithms, and Full-Stack Development
-* 🚀 Building production-grade AI applications with modern MLOps and cloud technologies
-* 📚 Currently exploring Distributed Systems, Advanced Deep Learning, and AI Research
-
 ---
 
-## Connect With Me
+# Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/soumyasouravdas">
@@ -36,9 +46,9 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 
 ---
 
-## Technical Expertise
+# Tech Stack
 
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
@@ -47,7 +57,7 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 
-### AI & Machine Learning
+## AI & Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
@@ -56,8 +66,10 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 ![OpenCV](https://img.shields.io/badge/OpenCV-White?style=flat\&logo=opencv)
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=flat)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
 
-### Backend & APIs
+## Backend & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask)
@@ -65,7 +77,7 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat\&logo=node.js)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat\&logo=jsonwebtokens)
 
-### Frontend
+## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite)
@@ -73,15 +85,13 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat\&logo=socket.io)
 
-### Databases & Vector Stores
+## Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat\&logo=neo4j)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=flat)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
 
-### Cloud & DevOps
+## Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat\&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat\&logo=microsoftazure)
@@ -94,52 +104,86 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 
 ---
 
-## GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=celestial317&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestial317&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celestial317&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestial317&layout=compact&theme=github_dark&langs_count=8"/>
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=celestial317&theme=github-dark-blue"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=celestial317&theme=github-dark-blue"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celestial317&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celestial317&theme=github_dark"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=celestial317&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=celestial317&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=celestial317&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=celestial317&theme=github_dark"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celestial317&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=celestial317&theme=github_dark&utcOffset=5.5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celestial317&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=celestial317&theme=github_dark&utcOffset=5.5"/>
 </p>
 
 ---
 
-## Achievements
+# Achievements
 
 * 🏆 3× Hackathon Winner
-* 🚀 Built and deployed multiple AI and full-stack applications
-* 🤖 Developed Agentic AI systems using LangChain and vector databases
-* 📚 Active contributor to open-source projects and technical communities
+* 🚀 Built and deployed multiple AI and Full-Stack applications
+* 🤖 Developed Agentic AI systems using LangChain and Vector Databases
+* 📚 Active contributor to Open Source projects and technical communities
 * 🎯 Solved 100+ Data Structures and Algorithms problems
-* 🔬 Researching AI applications in music, cybersecurity, climate science, and computer vision
+* 🔬 Researching AI applications in Music, Cybersecurity, Climate Science, and Computer Vision
 
 ---
 
-## Open Source Metrics
+# Featured Projects
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=celestial317\&theme=algolia\&no-frame=true\&margin-w=15\&margin-h=15)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=celestial317\&theme=github-compact)
-
-![Profile Views](https://komarev.com/ghpvc/?username=celestial317\&label=Profile%20Views\&color=0e75b6\&style=flat)
+* 🌧️ **INDRA** — AI-powered Rainwater Harvesting & Groundwater Analytics Platform
+* 👗 **Weaver AI** — Multimodal Fashion Intelligence and Virtual Try-On System
+* 🧠 **SourCandy** — Multi-Agent Hallucination Detection Framework
+* 🕵️ **NarcoLinkAI** — OSINT-based Criminal Network Intelligence System
+* 🔍 **Mini Search Engine** — Java-based Information Retrieval Engine
+* 💬 **PsyAssist** — Multimodal RAG Mental Health Assistant
 
 ---
 
-> “Building intelligent systems that solve real-world problems through AI and software engineering.”
+# Open Source Metrics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=celestial317&theme=algolia&no-frame=true&row=2&column=4"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=celestial317&theme=github-compact"/>
+</p>
+
+---
+
+# Contribution Snake
+
+> Create `.github/workflows/snake.yml` and add the snake SVG below.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/celestial317/celestial317/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# Current Focus
+
+* Agentic AI Systems
+* Scientific Machine Learning
+* Distributed Systems
+* Computer Vision Research
+* Large Language Models
+* Open Source Contributions
+
+---
+
+> *Building intelligent systems that solve real-world problems through AI and software engineering.*
