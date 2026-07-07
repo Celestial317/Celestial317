@@ -145,7 +145,7 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 # Open Source Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=celestial317&theme=algolia&no-frame=true&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=celestial317&theme=onedark&no-frame=true&row=2&column=4"/>
 </p>
 
 <p align="center">
