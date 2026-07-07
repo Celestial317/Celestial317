@@ -107,12 +107,12 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 # GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celestial317&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestial317&layout=compact&theme=github_dark&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=celestial317&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=celestial317&layout=compact&theme=github_dark&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=celestial317&theme=github-dark-blue"/>
+  <img src="https://streak-stats.demolab.com?user=celestial317&theme=github-dark-blue"/>
 </p>
 
 <p align="center">
@@ -142,17 +142,6 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 
 ---
 
-# Featured Projects
-
-* 🌧️ **INDRA** — AI-powered Rainwater Harvesting & Groundwater Analytics Platform
-* 👗 **Weaver AI** — Multimodal Fashion Intelligence and Virtual Try-On System
-* 🧠 **SourCandy** — Multi-Agent Hallucination Detection Framework
-* 🕵️ **NarcoLinkAI** — OSINT-based Criminal Network Intelligence System
-* 🔍 **Mini Search Engine** — Java-based Information Retrieval Engine
-* 💬 **PsyAssist** — Multimodal RAG Mental Health Assistant
-
----
-
 # Open Source Metrics
 
 <p align="center">
@@ -167,10 +156,9 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 
 # Contribution Snake
 
-> Create `.github/workflows/snake.yml` and add the snake SVG below.
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/celestial317/celestial317/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="github contribution snake animation"
+       src="https://raw.githubusercontent.com/celestial317/celestial317/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
