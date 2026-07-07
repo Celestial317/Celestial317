@@ -145,11 +145,6 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 # Open Source Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celestial317&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=celestial317&theme=github_dark&utcOffset=5.5"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=celestial317&theme=github-compact"/>
 </p>
 
