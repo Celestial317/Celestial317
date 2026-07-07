@@ -1,27 +1,145 @@
-# SOUMYA SOURAV DAS
-I am a student at DTU EE'28<br>My major domain of interest is AIML and Software Development<br>Strong foundation in Python, Java, C, and web technologies<br>Experience with ML frameworks like TensorFlow, Scikit-Learn, and LangChain<br>Creating Agentic Systems<br>Trying my best to conquer Hackathons<br>3x hackathon winner<br>
+# Hi, I'm Soumya Sourav Das
 
+**B.Tech Electrical Engineering @ Delhi Technological University (DTU) '28**
+AI/ML Engineer • Software Developer • Open Source Enthusiast • Hackathon Builder
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyasouravdas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumyasourav0311@gmail.com) 
+I enjoy building intelligent systems that combine **Machine Learning, Generative AI, Agentic Workflows, and Scalable Software Engineering**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=celestial317&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=celestial317&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=celestial317&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=celestial317&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=celestial317&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+* 🏆 3× Hackathon Winner
+* 🤖 Machine Learning Head @ MACS, DTU
+* 🔬 Research Interests: Multimodal AI, Agentic Systems, Computer Vision, RAG, Scientific ML
+* 💻 Strong foundation in Python, Java, C, Data Structures & Algorithms, and Full-Stack Development
+* 🚀 Building production-grade AI applications with modern MLOps and cloud technologies
+* 📚 Currently exploring Distributed Systems, Advanced Deep Learning, and AI Research
 
 ---
-[![](https://visitcount.itsvg.in/api?id=celestial317&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/soumyasouravdas">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:soumyasourav0311@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://soumya-sourav-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Celestial317">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## Technical Expertise
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+
+### AI & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat\&logo=keras\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-White?style=flat\&logo=opencv)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
+
+### Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat\&logo=node.js)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat\&logo=jsonwebtokens)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat\&logo=socket.io)
+
+### Databases & Vector Stores
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat\&logo=neo4j)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=flat)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat\&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat\&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat\&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat\&logo=firebase)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=cloudflare)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat\&logo=render)
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=celestial317&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestial317&layout=compact&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=celestial317&theme=github-dark-blue"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celestial317&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=celestial317&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=celestial317&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celestial317&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=celestial317&theme=github_dark&utcOffset=5.5"/>
+</p>
+
+---
+
+## Achievements
+
+* 🏆 3× Hackathon Winner
+* 🚀 Built and deployed multiple AI and full-stack applications
+* 🤖 Developed Agentic AI systems using LangChain and vector databases
+* 📚 Active contributor to open-source projects and technical communities
+* 🎯 Solved 100+ Data Structures and Algorithms problems
+* 🔬 Researching AI applications in music, cybersecurity, climate science, and computer vision
+
+---
+
+## Open Source Metrics
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=celestial317\&theme=algolia\&no-frame=true\&margin-w=15\&margin-h=15)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=celestial317\&theme=github-compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=celestial317\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+---
+
+> “Building intelligent systems that solve real-world problems through AI and software engineering.”
