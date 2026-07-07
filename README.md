@@ -153,11 +153,6 @@ I enjoy building intelligent systems that combine **Machine Learning, Generative
 # Contribution Snake
 
 <p align="center">
-  <img alt="github contribution snake animation"
-       src="https://raw.githubusercontent.com/celestial317/celestial317/output/github-contribution-grid-snake-dark.svg">
-</p>
-
-<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
